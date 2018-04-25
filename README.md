@@ -20,4 +20,4 @@ There will be more vidoes building out the rest of TODOMVC.
 
 - [Start Code](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-4)
 - [End Code](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-5)
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/todomvc-4-refactoring-with-partials-and-helpers'>TodoMVC 4: Refactoring with Partials and Helpers </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Objectives</p>
